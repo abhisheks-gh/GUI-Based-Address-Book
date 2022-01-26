@@ -10,7 +10,7 @@
   
 ## As we are creating an GUI application, we need to use a toolkit called SWING that is available in Java.
 
-## SWING 
+### SWING 
     Swing is a GUI widget toolkit for Java. It's a part of a Oracle Java Foundation
     Classes - an API for providing a graphical user interface for Java programs.
     Swing was developed to provide a more sophisticated set of GUI components than

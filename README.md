@@ -1,5 +1,8 @@
 # GUI-Based-Address-Book
 
+![image](https://user-images.githubusercontent.com/95921032/151843272-1c597245-7e08-48d5-a284-91173e7e4952.png)
+
+
 ## We want to build an address book that is capable of storing the name, address & phone number of a person. 
 
 ##  The feature list includes:
